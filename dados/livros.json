@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "titulo": "JavaScript para iniciantes",
+    "categoria": "Tecnologia",
+    "total": 8,
+    "emprestados": 5,
+    "ativo": true
+  },
+  {
+    "id": 2,
+    "titulo": "Histórias do Sertão",
+    "categoria": "Literatura",
+    "total": 5,
+    "emprestados": 5,
+    "ativo": true
+  },
+  {
+        "id": 3,
+        "titulo": "Design para todos",
+        "categoria": "Design",
+        "total": 6,
+        "emprestados": 2,
+        "ativo": false
+    },
+    {
+        "id": 4,
+        "titulo": "Ciência no cotidiano",
+        "categoria": "Ciencia",
+        "total": 10,
+        "emprestados": 4,
+        "ativo": true
+    }
+
+]
